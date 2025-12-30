@@ -1,0 +1,48 @@
+name: Aqbal Attendance Bot
+
+on:
+  schedule:
+    # 7:30 AM IST = 2:00 AM UTC
+    - cron: '0 2 * * *'
+
+    # 5:00 PM IST = 11:30 AM UTC
+    - cron: '30 11 * * *'
+
+    # 9:00 PM IST = 3:30 PM UTC
+    - cron: '30 15 * * *'
+
+  workflow_dispatch:
+
+jobs:
+  run-attendance-bot:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+
+    - name: Set up Chrome
+      uses: browser-actions/setup-chrome@v2
+      with:
+        chrome-version: stable
+        install-chromedriver: true
+
+    - name: Install dependencies
+      run: |
+        pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: Run attendance bot
+      run: python main.py
+      env:
+        ERP_USERNAME: ${{ secrets.ERP_USERNAME }}
+        ERP_PASSWORD: ${{ secrets.ERP_PASSWORD }}
+        BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+        CHAT_ID: ${{ secrets.CHAT_ID }}
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        GITHUB_REPOSITORY: ${{ github.repository }}
