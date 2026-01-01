@@ -2,13 +2,13 @@ name: Aqbal Attendance Bot
 
 on:
   schedule:
-    # 7:30 AM IST = 2:00 AM UTC
-    - cron: '0 2 * * *'
+    # Morning (buffered) — 6:00 AM IST = 12:30 AM UTC
+    - cron: '30 0 * * *'
 
-    # 5:00 PM IST = 11:30 AM UTC
+    # Evening — 5:00 PM IST = 11:30 AM UTC (UNCHANGED)
     - cron: '30 11 * * *'
 
-    # 9:00 PM IST = 3:30 PM UTC
+    # Night — 9:00 PM IST = 3:30 PM UTC (UNCHANGED)
     - cron: '30 15 * * *'
 
   workflow_dispatch:
