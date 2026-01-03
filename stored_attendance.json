@@ -2,9 +2,9 @@
   "subjects": [
     {
       "subject": "Compiler Design",
-      "held": 17,
-      "present": 14,
-      "percentage": "82.4%"
+      "held": 18,
+      "present": 15,
+      "percentage": "83.3%"
     },
     {
       "subject": "Cloud Computing",
@@ -61,6 +61,6 @@
       "percentage": "75.0%"
     }
   ],
-  "overall_percentage": "82.73 %",
-  "timestamp": "03/01/2026 03:49"
+  "overall_percentage": "82.88 %",
+  "timestamp": "03/01/2026 11:42"
 }
