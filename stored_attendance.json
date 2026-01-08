@@ -2,9 +2,9 @@
   "subjects": [
     {
       "subject": "Compiler Design",
-      "held": 20,
-      "present": 17,
-      "percentage": "85.0%"
+      "held": 21,
+      "present": 18,
+      "percentage": "85.7%"
     },
     {
       "subject": "Cloud Computing",
@@ -14,9 +14,9 @@
     },
     {
       "subject": "Cryptography & Network Security",
-      "held": 19,
-      "present": 17,
-      "percentage": "89.5%"
+      "held": 20,
+      "present": 18,
+      "percentage": "90.0%"
     },
     {
       "subject": "Machine Learning",
@@ -44,9 +44,9 @@
     },
     {
       "subject": "Technical Paper Writing & IPR",
-      "held": 8,
-      "present": 6,
-      "percentage": "75.0%"
+      "held": 9,
+      "present": 7,
+      "percentage": "77.8%"
     },
     {
       "subject": "ASSOCIATION",
@@ -61,6 +61,6 @@
       "percentage": "80.0%"
     }
   ],
-  "overall_percentage": "84.68 %",
-  "timestamp": "08/01/2026 04:08"
+  "overall_percentage": "85.04 %",
+  "timestamp": "08/01/2026 11:49"
 }
