@@ -26,9 +26,9 @@
     },
     {
       "subject": "Software Project Management",
-      "held": 14,
-      "present": 9,
-      "percentage": "64.3%"
+      "held": 15,
+      "present": 10,
+      "percentage": "66.7%"
     },
     {
       "subject": "Cryptography & Network Security Lab",
@@ -61,6 +61,6 @@
       "percentage": "80.0%"
     }
   ],
-  "overall_percentage": "84.55 %",
-  "timestamp": "07/01/2026 16:00"
+  "overall_percentage": "84.68 %",
+  "timestamp": "08/01/2026 04:08"
 }
