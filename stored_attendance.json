@@ -32,8 +32,8 @@
     },
     {
       "subject": "Cryptography & Network Security Lab",
-      "held": 18,
-      "present": 18,
+      "held": 21,
+      "present": 21,
       "percentage": "100.0%"
     },
     {
@@ -61,6 +61,6 @@
       "percentage": "80.0%"
     }
   ],
-  "overall_percentage": "83.21 %",
-  "timestamp": "18/01/2026 15:46"
+  "overall_percentage": "83.57 %",
+  "timestamp": "19/01/2026 04:38"
 }
