@@ -20,15 +20,15 @@
     },
     {
       "subject": "Machine Learning",
-      "held": 18,
-      "present": 14,
-      "percentage": "77.8%"
+      "held": 19,
+      "present": 15,
+      "percentage": "78.9%"
     },
     {
       "subject": "Software Project Management",
-      "held": 15,
-      "present": 10,
-      "percentage": "66.7%"
+      "held": 16,
+      "present": 11,
+      "percentage": "68.8%"
     },
     {
       "subject": "Cryptography & Network Security Lab",
@@ -61,6 +61,6 @@
       "percentage": "80.0%"
     }
   ],
-  "overall_percentage": "83.69 %",
-  "timestamp": "20/01/2026 04:15"
+  "overall_percentage": "83.92 %",
+  "timestamp": "20/01/2026 11:52"
 }
