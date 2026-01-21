@@ -14,9 +14,9 @@
     },
     {
       "subject": "Cryptography & Network Security",
-      "held": 22,
-      "present": 19,
-      "percentage": "86.4%"
+      "held": 23,
+      "present": 20,
+      "percentage": "87.0%"
     },
     {
       "subject": "Machine Learning",
@@ -26,9 +26,9 @@
     },
     {
       "subject": "Software Project Management",
-      "held": 16,
-      "present": 11,
-      "percentage": "68.8%"
+      "held": 17,
+      "present": 12,
+      "percentage": "70.6%"
     },
     {
       "subject": "Cryptography & Network Security Lab",
@@ -56,11 +56,11 @@
     },
     {
       "subject": "Technical Training",
-      "held": 15,
-      "present": 12,
-      "percentage": "80.0%"
+      "held": 18,
+      "present": 15,
+      "percentage": "83.3%"
     }
   ],
-  "overall_percentage": "83.92 %",
-  "timestamp": "21/01/2026 04:14"
+  "overall_percentage": "84.46 %",
+  "timestamp": "21/01/2026 11:52"
 }
