@@ -8,27 +8,33 @@
     },
     {
       "subject": "Cloud Computing",
-      "held": 2,
-      "present": 1,
-      "percentage": "50.0%"
+      "held": 14,
+      "present": 12,
+      "percentage": "85.7%"
     },
     {
       "subject": "Cryptography & Network Security",
-      "held": 24,
-      "present": 21,
-      "percentage": "87.5%"
+      "held": 26,
+      "present": 23,
+      "percentage": "88.5%"
     },
     {
       "subject": "Machine Learning",
-      "held": 19,
-      "present": 15,
-      "percentage": "78.9%"
+      "held": 20,
+      "present": 16,
+      "percentage": "80.0%"
     },
     {
       "subject": "Software Project Management",
-      "held": 17,
-      "present": 12,
-      "percentage": "70.6%"
+      "held": 18,
+      "present": 13,
+      "percentage": "72.2%"
+    },
+    {
+      "subject": "Cloud Computing Lab",
+      "held": 15,
+      "present": 15,
+      "percentage": "100.0%"
     },
     {
       "subject": "Cryptography & Network Security Lab",
@@ -44,14 +50,14 @@
     },
     {
       "subject": "Technical Paper Writing & IPR",
-      "held": 11,
-      "present": 8,
-      "percentage": "72.7%"
+      "held": 12,
+      "present": 9,
+      "percentage": "75.0%"
     },
     {
       "subject": "ASSOCIATION",
-      "held": 5,
-      "present": 5,
+      "held": 6,
+      "present": 6,
       "percentage": "100.0%"
     },
     {
@@ -61,6 +67,6 @@
       "percentage": "83.3%"
     }
   ],
-  "overall_percentage": "85.06 %",
-  "timestamp": "23/01/2026 04:12"
+  "overall_percentage": "87.17 %",
+  "timestamp": "23/01/2026 11:50"
 }
