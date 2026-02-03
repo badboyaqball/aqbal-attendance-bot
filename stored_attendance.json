@@ -31,6 +31,12 @@
       "percentage": "71.4%"
     },
     {
+      "subject": "Disaster Management",
+      "held": 1,
+      "present": 1,
+      "percentage": "100.0%"
+    },
+    {
       "subject": "Cloud Computing Lab",
       "held": 15,
       "present": 15,
@@ -67,6 +73,6 @@
       "percentage": "83.3%"
     }
   ],
-  "overall_percentage": "85.13 %",
-  "timestamp": "03/02/2026 03:19"
+  "overall_percentage": "85.2 %",
+  "timestamp": "03/02/2026 11:53"
 }
