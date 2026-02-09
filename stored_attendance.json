@@ -2,9 +2,9 @@
   "subjects": [
     {
       "subject": "Compiler Design",
-      "held": 30,
-      "present": 25,
-      "percentage": "83.3%"
+      "held": 31,
+      "present": 26,
+      "percentage": "83.9%"
     },
     {
       "subject": "Cloud Computing",
@@ -32,8 +32,8 @@
     },
     {
       "subject": "Disaster Management",
-      "held": 29,
-      "present": 29,
+      "held": 30,
+      "present": 30,
       "percentage": "100.0%"
     },
     {
@@ -44,8 +44,8 @@
     },
     {
       "subject": "Cryptography & Network Security Lab",
-      "held": 21,
-      "present": 21,
+      "held": 24,
+      "present": 24,
       "percentage": "100.0%"
     },
     {
@@ -73,6 +73,6 @@
       "percentage": "83.3%"
     }
   ],
-  "overall_percentage": "87.87 %",
-  "timestamp": "09/02/2026 03:27"
+  "overall_percentage": "88.11 %",
+  "timestamp": "09/02/2026 12:01"
 }
