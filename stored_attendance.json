@@ -26,15 +26,15 @@
     },
     {
       "subject": "Software Project Management",
-      "held": 26,
-      "present": 20,
-      "percentage": "76.9%"
+      "held": 27,
+      "present": 21,
+      "percentage": "77.8%"
     },
     {
       "subject": "Disaster Management",
-      "held": 33,
-      "present": 32,
-      "percentage": "97.0%"
+      "held": 34,
+      "present": 33,
+      "percentage": "97.1%"
     },
     {
       "subject": "Cloud Computing Lab",
@@ -68,11 +68,11 @@
     },
     {
       "subject": "Technical Training",
-      "held": 21,
-      "present": 18,
-      "percentage": "85.7%"
+      "held": 24,
+      "present": 21,
+      "percentage": "87.5%"
     }
   ],
-  "overall_percentage": "86.59 %",
-  "timestamp": "18/02/2026 03:24"
+  "overall_percentage": "86.83 %",
+  "timestamp": "18/02/2026 11:57"
 }
