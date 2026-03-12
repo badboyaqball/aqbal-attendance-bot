@@ -7,28 +7,10 @@
       "percentage": "82.6%"
     },
     {
-      "subject": "Compiler Design",
-      "held": 46,
-      "present": 39,
-      "percentage": "84.8%"
-    },
-    {
       "subject": "Cloud Computing",
       "held": 17,
       "present": 15,
       "percentage": "88.2%"
-    },
-    {
-      "subject": "Cloud Computing",
-      "held": 17,
-      "present": 14,
-      "percentage": "82.4%"
-    },
-    {
-      "subject": "Cryptography & Network Security",
-      "held": 47,
-      "present": 38,
-      "percentage": "80.9%"
     },
     {
       "subject": "Cryptography & Network Security",
@@ -43,28 +25,10 @@
       "percentage": "73.5%"
     },
     {
-      "subject": "Machine Learning",
-      "held": 34,
-      "present": 29,
-      "percentage": "85.3%"
-    },
-    {
       "subject": "Software Project Management",
       "held": 35,
       "present": 28,
       "percentage": "80.0%"
-    },
-    {
-      "subject": "Software Project Management",
-      "held": 35,
-      "present": 30,
-      "percentage": "85.7%"
-    },
-    {
-      "subject": "Disaster Management",
-      "held": 43,
-      "present": 40,
-      "percentage": "93.0%"
     },
     {
       "subject": "Disaster Management",
@@ -79,18 +43,6 @@
       "percentage": "83.3%"
     },
     {
-      "subject": "Cloud Computing Lab",
-      "held": 18,
-      "present": 12,
-      "percentage": "66.7%"
-    },
-    {
-      "subject": "Cryptography & Network Security Lab",
-      "held": 36,
-      "present": 27,
-      "percentage": "75.0%"
-    },
-    {
       "subject": "Cryptography & Network Security Lab",
       "held": 36,
       "present": 36,
@@ -103,28 +55,10 @@
       "percentage": "88.9%"
     },
     {
-      "subject": "Soft Skills",
-      "held": 27,
-      "present": 21,
-      "percentage": "77.8%"
-    },
-    {
-      "subject": "Technical Paper Writing & IPR",
-      "held": 22,
-      "present": 19,
-      "percentage": "86.4%"
-    },
-    {
       "subject": "Technical Paper Writing & IPR",
       "held": 22,
       "present": 17,
       "percentage": "77.3%"
-    },
-    {
-      "subject": "ASSOCIATION",
-      "held": 12,
-      "present": 10,
-      "percentage": "83.3%"
     },
     {
       "subject": "ASSOCIATION",
@@ -137,14 +71,8 @@
       "held": 33,
       "present": 30,
       "percentage": "90.9%"
-    },
-    {
-      "subject": "Technical Training",
-      "held": 33,
-      "present": 24,
-      "percentage": "72.7%"
     }
   ],
-  "overall_percentage": "83.65 %",
-  "timestamp": "11/03/2026 16:13"
+  "overall_percentage": "85.41 %",
+  "timestamp": "12/03/2026 03:17"
 }
