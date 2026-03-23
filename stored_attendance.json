@@ -8,9 +8,9 @@
     },
     {
       "subject": "Cloud Computing",
-      "held": 45,
-      "present": 40,
-      "percentage": "88.9%"
+      "held": 46,
+      "present": 41,
+      "percentage": "89.1%"
     },
     {
       "subject": "Cryptography & Network Security",
@@ -73,6 +73,6 @@
       "percentage": "91.7%"
     }
   ],
-  "overall_percentage": "86.95 %",
-  "timestamp": "23/03/2026 11:59"
+  "overall_percentage": "86.98 %",
+  "timestamp": "23/03/2026 16:30"
 }
