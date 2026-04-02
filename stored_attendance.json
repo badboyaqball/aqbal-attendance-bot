@@ -8,15 +8,15 @@
     },
     {
       "subject": "Cloud Computing",
-      "held": 48,
-      "present": 43,
-      "percentage": "89.6%"
+      "held": 50,
+      "present": 45,
+      "percentage": "90.0%"
     },
     {
       "subject": "Cryptography & Network Security",
-      "held": 57,
-      "present": 45,
-      "percentage": "78.9%"
+      "held": 59,
+      "present": 47,
+      "percentage": "79.7%"
     },
     {
       "subject": "Machine Learning",
@@ -38,9 +38,9 @@
     },
     {
       "subject": "Cloud Computing Lab",
-      "held": 39,
-      "present": 36,
-      "percentage": "92.3%"
+      "held": 42,
+      "present": 39,
+      "percentage": "92.9%"
     },
     {
       "subject": "Cryptography & Network Security Lab",
@@ -50,15 +50,15 @@
     },
     {
       "subject": "Soft Skills",
-      "held": 33,
-      "present": 30,
-      "percentage": "90.9%"
+      "held": 36,
+      "present": 33,
+      "percentage": "91.7%"
     },
     {
       "subject": "Technical Paper Writing & IPR",
-      "held": 25,
-      "present": 20,
-      "percentage": "80.0%"
+      "held": 26,
+      "present": 21,
+      "percentage": "80.8%"
     },
     {
       "subject": "ASSOCIATION",
@@ -73,6 +73,6 @@
       "percentage": "85.7%"
     }
   ],
-  "overall_percentage": "85.1 %",
-  "timestamp": "02/04/2026 03:33"
+  "overall_percentage": "85.43 %",
+  "timestamp": "02/04/2026 12:03"
 }
