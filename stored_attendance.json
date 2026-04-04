@@ -14,9 +14,9 @@
     },
     {
       "subject": "Cryptography & Network Security",
-      "held": 59,
-      "present": 47,
-      "percentage": "79.7%"
+      "held": 60,
+      "present": 48,
+      "percentage": "80.0%"
     },
     {
       "subject": "Machine Learning",
@@ -32,9 +32,9 @@
     },
     {
       "subject": "Disaster Management",
-      "held": 51,
-      "present": 45,
-      "percentage": "88.2%"
+      "held": 52,
+      "present": 46,
+      "percentage": "88.5%"
     },
     {
       "subject": "Cloud Computing Lab",
@@ -62,9 +62,9 @@
     },
     {
       "subject": "ASSOCIATION",
-      "held": 14,
-      "present": 10,
-      "percentage": "71.4%"
+      "held": 15,
+      "present": 11,
+      "percentage": "73.3%"
     },
     {
       "subject": "Technical Training",
@@ -73,6 +73,6 @@
       "percentage": "85.7%"
     }
   ],
-  "overall_percentage": "85.46 %",
-  "timestamp": "04/04/2026 05:11"
+  "overall_percentage": "85.54 %",
+  "timestamp": "04/04/2026 11:49"
 }
