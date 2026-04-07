@@ -2,9 +2,9 @@
   "subjects": [
     {
       "subject": "Compiler Design",
-      "held": 53,
+      "held": 54,
       "present": 44,
-      "percentage": "83.0%"
+      "percentage": "81.5%"
     },
     {
       "subject": "Cloud Computing",
@@ -20,15 +20,15 @@
     },
     {
       "subject": "Machine Learning",
-      "held": 43,
+      "held": 44,
       "present": 33,
-      "percentage": "76.7%"
+      "percentage": "75.0%"
     },
     {
       "subject": "Software Project Management",
-      "held": 42,
+      "held": 43,
       "present": 32,
-      "percentage": "76.2%"
+      "percentage": "74.4%"
     },
     {
       "subject": "Disaster Management",
@@ -73,6 +73,6 @@
       "percentage": "85.7%"
     }
   ],
-  "overall_percentage": "84.9 %",
-  "timestamp": "07/04/2026 03:38"
+  "overall_percentage": "84.41 %",
+  "timestamp": "07/04/2026 12:06"
 }
