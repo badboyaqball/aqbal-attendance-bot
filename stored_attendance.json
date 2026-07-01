@@ -2,12 +2,18 @@
   "subjects": [
     {
       "subject": "Deep Learning",
+      "held": 2,
+      "present": 2,
+      "percentage": "100.0%"
+    },
+    {
+      "subject": "Devops",
       "held": 1,
       "present": 1,
       "percentage": "100.0%"
     },
     {
-      "subject": "Devops",
+      "subject": "Utilization of Electrical Energy",
       "held": 1,
       "present": 1,
       "percentage": "100.0%"
@@ -19,6 +25,12 @@
       "percentage": "100.0%"
     },
     {
+      "subject": "Technical Training",
+      "held": 3,
+      "present": 3,
+      "percentage": "100.0%"
+    },
+    {
       "subject": "SELF LEARNING",
       "held": 1,
       "present": 1,
@@ -26,5 +38,5 @@
     }
   ],
   "overall_percentage": "100 %",
-  "timestamp": "01/07/2026 05:04"
+  "timestamp": "01/07/2026 13:52"
 }
