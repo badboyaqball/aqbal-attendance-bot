@@ -2,9 +2,9 @@
   "subjects": [
     {
       "subject": "Deep Learning",
-      "held": 12,
-      "present": 7,
-      "percentage": "58.3%"
+      "held": 13,
+      "present": 8,
+      "percentage": "61.5%"
     },
     {
       "subject": "Human Resources & Project Management",
@@ -14,9 +14,9 @@
     },
     {
       "subject": "Devops",
-      "held": 10,
-      "present": 6,
-      "percentage": "60.0%"
+      "held": 11,
+      "present": 7,
+      "percentage": "63.6%"
     },
     {
       "subject": "Generative AI",
@@ -67,6 +67,6 @@
       "percentage": "100.0%"
     }
   ],
-  "overall_percentage": "62.65 %",
-  "timestamp": "16/07/2026 09:51"
+  "overall_percentage": "63.53 %",
+  "timestamp": "16/07/2026 10:24"
 }
