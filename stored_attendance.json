@@ -56,9 +56,9 @@
     },
     {
       "subject": "SELF LEARNING",
-      "held": 4,
-      "present": 2,
-      "percentage": "50.0%"
+      "held": 5,
+      "present": 3,
+      "percentage": "60.0%"
     },
     {
       "subject": "ASSOCIATION",
@@ -67,6 +67,6 @@
       "percentage": "100.0%"
     }
   ],
-  "overall_percentage": "72.07 %",
-  "timestamp": "21/07/2026 12:55"
+  "overall_percentage": "72.32 %",
+  "timestamp": "21/07/2026 16:57"
 }
