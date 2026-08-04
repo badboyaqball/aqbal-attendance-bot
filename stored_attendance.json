@@ -2,15 +2,15 @@
   "subjects": [
     {
       "subject": "Deep Learning",
-      "held": 21,
-      "present": 16,
-      "percentage": "76.2%"
+      "held": 22,
+      "present": 17,
+      "percentage": "77.3%"
     },
     {
       "subject": "Human Resources & Project Management",
       "held": 15,
-      "present": 11,
-      "percentage": "73.3%"
+      "present": 12,
+      "percentage": "80.0%"
     },
     {
       "subject": "Devops",
@@ -56,9 +56,9 @@
     },
     {
       "subject": "SELF LEARNING",
-      "held": 6,
-      "present": 4,
-      "percentage": "66.7%"
+      "held": 7,
+      "present": 5,
+      "percentage": "71.4%"
     },
     {
       "subject": "ASSOCIATION",
@@ -67,6 +67,6 @@
       "percentage": "100.0%"
     }
   ],
-  "overall_percentage": "81.03 %",
-  "timestamp": "04/08/2026 13:16"
+  "overall_percentage": "81.82 %",
+  "timestamp": "04/08/2026 17:14"
 }
