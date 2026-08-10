@@ -2,9 +2,9 @@
   "subjects": [
     {
       "subject": "Deep Learning",
-      "held": 23,
-      "present": 18,
-      "percentage": "78.3%"
+      "held": 24,
+      "present": 19,
+      "percentage": "79.2%"
     },
     {
       "subject": "Human Resources & Project Management",
@@ -20,9 +20,9 @@
     },
     {
       "subject": "Generative AI",
-      "held": 29,
-      "present": 25,
-      "percentage": "86.2%"
+      "held": 30,
+      "present": 26,
+      "percentage": "86.7%"
     },
     {
       "subject": "Utilization of Electrical Energy",
@@ -62,11 +62,11 @@
     },
     {
       "subject": "ASSOCIATION",
-      "held": 8,
-      "present": 8,
+      "held": 10,
+      "present": 10,
       "percentage": "100.0%"
     }
   ],
-  "overall_percentage": "83.59 %",
-  "timestamp": "10/08/2026 02:40"
+  "overall_percentage": "83.92 %",
+  "timestamp": "10/08/2026 12:09"
 }
