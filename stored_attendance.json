@@ -8,9 +8,9 @@
     },
     {
       "subject": "Human Resources & Project Management",
-      "held": 21,
-      "present": 17,
-      "percentage": "81.0%"
+      "held": 22,
+      "present": 18,
+      "percentage": "81.8%"
     },
     {
       "subject": "Devops",
@@ -20,9 +20,9 @@
     },
     {
       "subject": "Generative AI",
-      "held": 41,
-      "present": 34,
-      "percentage": "82.9%"
+      "held": 42,
+      "present": 35,
+      "percentage": "83.3%"
     },
     {
       "subject": "Utilization of Electrical Energy",
@@ -62,11 +62,11 @@
     },
     {
       "subject": "ASSOCIATION",
-      "held": 12,
-      "present": 10,
-      "percentage": "83.3%"
+      "held": 14,
+      "present": 12,
+      "percentage": "85.7%"
     }
   ],
-  "overall_percentage": "82.13 %",
-  "timestamp": "05/09/2026 04:46"
+  "overall_percentage": "82.4 %",
+  "timestamp": "05/09/2026 13:58"
 }
