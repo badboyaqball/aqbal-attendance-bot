@@ -7,6 +7,18 @@
       "percentage": "80.0%"
     },
     {
+      "subject": "Deep Learning",
+      "held": 40,
+      "present": 30,
+      "percentage": "75.0%"
+    },
+    {
+      "subject": "Human Resources & Project Management",
+      "held": 24,
+      "present": 19,
+      "percentage": "79.2%"
+    },
+    {
       "subject": "Human Resources & Project Management",
       "held": 24,
       "present": 19,
@@ -17,6 +29,18 @@
       "held": 22,
       "present": 18,
       "percentage": "81.8%"
+    },
+    {
+      "subject": "Devops",
+      "held": 22,
+      "present": 18,
+      "percentage": "81.8%"
+    },
+    {
+      "subject": "Generative AI",
+      "held": 46,
+      "present": 31,
+      "percentage": "67.4%"
     },
     {
       "subject": "Generative AI",
@@ -31,6 +55,18 @@
       "percentage": "85.7%"
     },
     {
+      "subject": "Utilization of Electrical Energy",
+      "held": 35,
+      "present": 28,
+      "percentage": "80.0%"
+    },
+    {
+      "subject": "Prompt Engineering",
+      "held": 36,
+      "present": 30,
+      "percentage": "83.3%"
+    },
+    {
       "subject": "Prompt Engineering",
       "held": 36,
       "present": 29,
@@ -40,6 +76,18 @@
       "subject": "Constitution of India",
       "held": 21,
       "present": 18,
+      "percentage": "85.7%"
+    },
+    {
+      "subject": "Constitution of India",
+      "held": 21,
+      "present": 14,
+      "percentage": "66.7%"
+    },
+    {
+      "subject": "Evaluation of Industry Internship /Mini Project",
+      "held": 14,
+      "present": 12,
       "percentage": "85.7%"
     },
     {
@@ -55,6 +103,18 @@
       "percentage": "90.0%"
     },
     {
+      "subject": "Technical Training",
+      "held": 30,
+      "present": 27,
+      "percentage": "90.0%"
+    },
+    {
+      "subject": "SELF LEARNING",
+      "held": 11,
+      "present": 10,
+      "percentage": "90.9%"
+    },
+    {
       "subject": "SELF LEARNING",
       "held": 11,
       "present": 9,
@@ -65,8 +125,14 @@
       "held": 14,
       "present": 12,
       "percentage": "85.7%"
+    },
+    {
+      "subject": "ASSOCIATION",
+      "held": 14,
+      "present": 8,
+      "percentage": "57.1%"
     }
   ],
-  "overall_percentage": "82.25 %",
-  "timestamp": "12/09/2026 14:18"
+  "overall_percentage": "79.86 %",
+  "timestamp": "12/09/2026 17:48"
 }
