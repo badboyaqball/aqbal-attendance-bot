@@ -2,9 +2,9 @@
   "subjects": [
     {
       "subject": "Deep Learning",
-      "held": 41,
+      "held": 42,
       "present": 33,
-      "percentage": "80.5%"
+      "percentage": "78.6%"
     },
     {
       "subject": "Human Resources & Project Management",
@@ -50,9 +50,9 @@
     },
     {
       "subject": "Technical Training",
-      "held": 30,
+      "held": 33,
       "present": 27,
-      "percentage": "90.0%"
+      "percentage": "81.8%"
     },
     {
       "subject": "SELF LEARNING",
@@ -67,6 +67,6 @@
       "percentage": "85.7%"
     }
   ],
-  "overall_percentage": "82.55 %",
-  "timestamp": "15/09/2026 19:09"
+  "overall_percentage": "81.46 %",
+  "timestamp": "16/09/2026 05:03"
 }
