@@ -26,9 +26,9 @@
     },
     {
       "subject": "Utilization of Electrical Energy",
-      "held": 41,
-      "present": 34,
-      "percentage": "82.9%"
+      "held": 42,
+      "present": 35,
+      "percentage": "83.3%"
     },
     {
       "subject": "Prompt Engineering",
@@ -67,6 +67,6 @@
       "percentage": "87.5%"
     }
   ],
-  "overall_percentage": "80.77 %",
-  "timestamp": "24/09/2026 19:27"
+  "overall_percentage": "80.83 %",
+  "timestamp": "25/09/2026 05:10"
 }
