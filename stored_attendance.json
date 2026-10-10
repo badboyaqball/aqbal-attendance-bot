@@ -8,9 +8,9 @@
     },
     {
       "subject": "Human Resources & Project Management",
-      "held": 33,
+      "held": 34,
       "present": 26,
-      "percentage": "78.8%"
+      "percentage": "76.5%"
     },
     {
       "subject": "Devops",
@@ -67,6 +67,6 @@
       "percentage": "90.0%"
     }
   ],
-  "overall_percentage": "81.25 %",
-  "timestamp": "09/10/2026 20:17"
+  "overall_percentage": "81.05 %",
+  "timestamp": "10/10/2026 06:10"
 }
