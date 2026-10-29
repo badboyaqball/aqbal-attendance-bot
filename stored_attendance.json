@@ -2,9 +2,9 @@
   "subjects": [
     {
       "subject": "Deep Learning",
-      "held": 65,
-      "present": 51,
-      "percentage": "78.5%"
+      "held": 66,
+      "present": 52,
+      "percentage": "78.8%"
     },
     {
       "subject": "Human Resources & Project Management",
@@ -67,6 +67,6 @@
       "percentage": "91.7%"
     }
   ],
-  "overall_percentage": "82.42 %",
-  "timestamp": "28/10/2026 20:29"
+  "overall_percentage": "82.46 %",
+  "timestamp": "29/10/2026 06:09"
 }
